@@ -1,3 +1,9 @@
 body{
    background-color: rgb(44, 44, 44);
 }
+p{
+   color: #faa;
+}
+h2{
+   color: aqua;
+}
